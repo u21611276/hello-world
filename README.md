@@ -1,2 +1,3 @@
-# hello-world
-hello-world
+こんにちは。
+中野です。
+。
